@@ -7,10 +7,13 @@ A Repair Café is a friendly community space where people come together to fix b
 
 ## Repair cafes
 
-Boothstown  
-Boilerhouse Moss Side  
-Levenshulme  
-Boggart Hole Clough (new!)  
+| Area  | Times| Address | Contact | More information | 
+| ------------- | ------------- |
+| Chorlton  | Second Saturday  | M| email | https://chorltonrepaircafe.org.uk |
+| Boothstown  |
+| Moss Side | | Boilerhouse | | |
+| Levenshulme | 
+| Boggart Hole Clough (new!) | 
 
 ## Map
 <a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd"/></a>
