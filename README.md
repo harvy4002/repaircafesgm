@@ -7,8 +7,8 @@ A Repair Café is a friendly community space where people come together to fix b
 
 ## Repair cafes
 
-| Area  | Times| Address | Contact | More information | 
-| ------------- | ------------- |
+| Area | Times | Address | Contact | More information | 
+| --- | --- | --- | --- | --- |
 | Chorlton  | Second Saturday  | M| email | https://chorltonrepaircafe.org.uk |
 | Boothstown  |
 | Moss Side | | Boilerhouse | | |
