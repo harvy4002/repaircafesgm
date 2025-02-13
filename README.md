@@ -1,5 +1,3 @@
-# Repair Cafes in Greater Manchester 
-
 We have various repair cafes in Greater Manchester. Most run on saturday mornings.
 
 ## What is a repair cafe
