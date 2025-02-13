@@ -1,22 +1,3 @@
-remote_theme: st4ple/solid-jekyll
+remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Site settings
-url: 'https://repaircafesgm.com'
-baseurl: ''
-title: 'Greater Manchester Repair Cafes'
-description: ''
-permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
-
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
-
-# Collections
-collections:
-  posts:
-    title: Blog
-    output: true
-    description: "There isn't much going on here yet, but watch this space"
