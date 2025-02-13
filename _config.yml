@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: daviddarnes/garth
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-include-cache
