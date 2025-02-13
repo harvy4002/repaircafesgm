@@ -4,8 +4,10 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family:Calmetta,sans-serif;
-  -webkit-font-smoothing:initial
+  font-family: Calmetta,sans-serif;
+  font-style: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: initial;
 }
 
 th {
@@ -18,12 +20,9 @@ th {
 }
 
 #header_wrap {
-  background:#212121;
+  background:#ffdc44;
 }
 
 #project_title {
-  margin:0;
-  color:#000;
-  font-size:42px;
-  font-weight:700;
+  text-shadow:0;
 }
