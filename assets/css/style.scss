@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family:Calmetta,sans-serif;
+  -webkit-font-smoothing:initial
+}
+
+th {
+  font-family:Calmetta,sans-serif;
+  padding:10px;
+  background:#ffdc44;
+  color:#000000;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+#header_wrap {
+  !important background:#212121;
+}
+
+#project_title {
+  margin:0;
+  color:#000;
+  font-size:42px;
+  font-weight:700;
+}
