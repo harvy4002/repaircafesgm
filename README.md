@@ -9,7 +9,7 @@ A Repair Café is a friendly community space where people come together to fix b
 | --- | --- | --- | --- | 
 | Boggart Hole Clough (new!) | 
 | Boothstown  |
-| Chorlton  | Second Saturday @ 10-12 | [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7) | [Email](mailto:chorltonrepaircafe@gmail.com) [Facebook](https://www.facebook.com/ChorltonRepairCafe/) [Website](https://chorltonrepaircafe.org.uk) | 
+| Chorlton  | 2n Saturday @ 10-12 | [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7) | [Email](mailto:chorltonrepaircafe@gmail.com) [Facebook](https://www.facebook.com/ChorltonRepairCafe/) [Website](https://chorltonrepaircafe.org.uk) | 
 | Moss Side | | Boilerhouse | | 
 | Levenshulme | 
 
