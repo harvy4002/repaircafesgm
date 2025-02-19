@@ -11,7 +11,7 @@ A Repair Café is a friendly community space where people come together to fix b
 | Boothstown  |
 | Chorlton  | 2nd Saturday month @ 10-12 | [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7) | [Email](mailto:chorltonrepaircafe@gmail.com) [Facebook](https://www.facebook.com/ChorltonRepairCafe/) [Website](https://chorltonrepaircafe.org.uk) | 
 | Moss Side | | Boilerhouse | | 
-| Levenshulme | 
+| Levenshulme | 3rd Saturday month @ 12-10 | [Levenshulme Old Library, Cromwell Grove, Levenshulme, M19 3QE](https://maps.app.goo.gl/gbH2MSCu6CiFxPwXA) | [Email](mailto:levrepaircafe@gmail.com)
 
 ## Map
 <a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd"/></a>
