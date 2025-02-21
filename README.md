@@ -7,11 +7,11 @@ A Repair Café is a friendly community space where people come together to fix b
 
 | Area | Times | Address | Contact |  
 | --- | --- | --- | --- | 
-| Boggart Hole Clough (new!) | 
-| Boothstown  |
-| Chorlton  | 2nd Saturday month @ 10-12 | [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7) | [Email](mailto:chorltonrepaircafe@gmail.com) [Facebook](https://www.facebook.com/ChorltonRepairCafe/) [Website](https://chorltonrepaircafe.org.uk) | 
+| Boggart Hole Clough 🆕 | 
+| Boothstown | 1st Saturday month @ 9:30-11:30 | [Boothstown Village Hall, Vicars Hall Ln, Boothstown, Worsley, Manchester ,M28 1JF](https://maps.app.goo.gl/Xd4TrzENgJuEEzvQA) | [Email](mailto:boothstownrepaircafe@gmail.com) [Facebook](https://www.facebook.com/BoothstownRepairCafe) [Twitter](https://x.com/repaircafeboot1) 
+| Chorlton  | 2nd Saturday month @ 10-12 | [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7) | [Email](mailto:chorltonrepaircafe@gmail.com) [Facebook](https://www.facebook.com/ChorltonRepairCafe/) [Website](https://chorltonrepaircafe.org.uk) 
 | Moss Side | | Boilerhouse | | 
-| Levenshulme | 3rd Saturday month @ 12-10 | [Levenshulme Old Library, Cromwell Grove, Levenshulme, M19 3QE](https://maps.app.goo.gl/gbH2MSCu6CiFxPwXA) | [Email](mailto:levrepaircafe@gmail.com)
+| Levenshulme | 3rd Saturday month @ 10-12 | [Levenshulme Old Library, Cromwell Grove, Levenshulme, M19 3QE](https://maps.app.goo.gl/gbH2MSCu6CiFxPwXA) | [Email](mailto:levrepaircafe@gmail.com)
 
 ## Map
-<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd"/></a>
+<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="766" alt="Map of Repair Cafes in Greater Manchester" src="https://github.com/user-attachments/assets/2d9b1c59-f4f1-4f20-87da-c38c86f7e5a1" />
