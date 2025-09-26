@@ -18,6 +18,7 @@ Bolton | 3rd Wednesday month @ 10:30–12:30 | [Hope Centre, St. Andrews Church,
 | Moss Side | Last Saturday month @ 10-12 | [Boiler House, 9 Wilcock St, Moss Side, Manchester M16 7DA](https://maps.app.goo.gl/4rbbaHhV1eQwNSVE7) | [Facebook](https://www.facebook.com/mosssiderepaircafe/) 
 | New Moston | 2nd Friday month @ 10-12 | [NEPHRA Headquarters, 27 Pakefield Road North, M40 3TB](https://maps.app.goo.gl/ZCwCJSGNuTevJsS2A) | [Facebook](https://www.facebook.com/nephranewmoston/)
 | Stretford | Last Sunday month @ 10-12 | [Stretford Public Hall, Chester Rd, Stretford, M32 0LG](https://maps.app.goo.gl/73ma6vonM2RqKTqC6) | [Facebook](https://www.facebook.com/StretfordRepairCafe) |
+| Urmston | 2nd Sunday month @ 9:30-11:30 | [Goodness Zero Waste, 10 Crofts Bank Rd, Urmston, Manchester, M41 0TS](https://maps.app.goo.gl/cXPwmYaBMEN2c8nj9) | [Email](mailto:urmstonrepaircafe@gmail.com) [Website](https://urmstonrepaircafe.org) |
 
 ## Map
 <a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="988" alt="Map of Repair Cafes in Greater Manchester" src="https://github.com/user-attachments/assets/2cd7ddea-36ae-46e9-b068-862468946026" />
