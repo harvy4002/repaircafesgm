@@ -21,4 +21,4 @@ Bolton | 3rd Wednesday month @ 10:30–12:30 | [Hope Centre, St. Andrews Church,
 | Urmston | 2nd Sunday month @ 9:30-11:30 | [Goodness Zero Waste, 10 Crofts Bank Rd, Urmston, Manchester, M41 0TS](https://maps.app.goo.gl/cXPwmYaBMEN2c8nj9) | [Email](mailto:urmstonrepaircafe@gmail.com) [Website](https://urmstonrepaircafe.org) |
 
 ## Map
-<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="988" alt="Map of Repair Cafes in Greater Manchester" src="https://github.com/user-attachments/assets/2cd7ddea-36ae-46e9-b068-862468946026" />
+<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="988" alt="Map of Repair Cafes in Greater Manchester" src="https://github.com/user-attachments/assets/276a560d-c89c-481b-abd6-e31ca5be0b70" />
