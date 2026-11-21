@@ -32,3 +32,64 @@ th {
   color: #000;
   width: 80%;
 }
+
+/* Postcode lookup */
+.postcode-lookup {
+  margin: 0 0 20px;
+  padding: 15px;
+  background: #fff8d6;
+  border: 1px solid #ffc800;
+  border-radius: 4px;
+}
+.postcode-lookup label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #000;
+}
+.postcode-lookup-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.postcode-lookup input {
+  flex: 1 1 220px;
+  padding: 8px 10px;
+  font-size: 16px;
+  border: 1px solid #999;
+  border-radius: 4px;
+}
+.postcode-lookup button {
+  padding: 8px 14px;
+  font-size: 16px;
+  background: #ffdc44;
+  color: #000;
+  border: 1px solid #c9a400;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.postcode-lookup button:hover,
+.postcode-lookup button:focus {
+  background: #ffc800;
+}
+.postcode-lookup button[hidden] {
+  display: none;
+}
+.postcode-status {
+  margin: 8px 0 0;
+  min-height: 1em;
+  font-size: 14px;
+}
+.postcode-status:empty {
+  display: none;
+}
+.postcode-error {
+  color: #b00020;
+}
+.distance-col {
+  display: none;
+  white-space: nowrap;
+}
+.show-distance .distance-col {
+  display: table-cell;
+}
