@@ -20,6 +20,7 @@ Bolton | 3rd Wednesday month @ 10:30–12:30 | [Hope Centre, St. Andrews Church,
 | Marple | 3rd Saturday @ 10-12 | [Marple Senior Citizens Association, Memorial Park, Marple, Stockport SK6 6BA](https://maps.app.goo.gl/oN4ofmu9Zo1r8MXcA) | [Email](mailto:repaircafemarple@gmail.com) [Facebook](https://www.facebook.com/repaircafemarple)
 | Moss Side | Last Saturday @ 10-12 | [Boiler House, 9 Wilcock St, Moss Side, Manchester M16 7DA](https://maps.app.goo.gl/4rbbaHhV1eQwNSVE7) | [Facebook](https://www.facebook.com/mosssiderepaircafe/)
 | New Moston | 2nd Friday @ 10-12 | [NEPHRA Headquarters, 27 Pakefield Road North, M40 3TB](https://maps.app.goo.gl/ZCwCJSGNuTevJsS2A) | [Facebook](https://www.facebook.com/nephranewmoston/)
+| Sale Moor (Tea and Tinker) 🆕 | 1st Thursday @ 13-16 | [Sale Moor Community Centre, Norris Road, Sale, M33 2NN](https://www.google.com/maps/search/?api=1&query=Sale+Moor+Community+Centre,+Norris+Road,+M33+2NN) | [Facebook](https://www.facebook.com/share/1DbihGiTp8/?mibextid=wwXIfr)
 | Stretford | Last Sunday @ 10-12 | [Stretford Public Hall, Chester Rd, Stretford, M32 0LG](https://maps.app.goo.gl/73ma6vonM2RqKTqC6) | [Facebook](https://www.facebook.com/StretfordRepairCafe) |
 | Urmston | Every 6 weeks on Sunday @ 10:30-12:30 (check the website for a calendar) | [Goodness Zero Waste, 10 Crofts Bank Rd, Urmston, Manchester, M41 0TS](https://maps.app.goo.gl/cXPwmYaBMEN2c8nj9) | [Email](mailto:urmstonrepaircafe@gmail.com) [Website](https://urmstonrepaircafe.org) [Instagram](https://www.instagram.com/urmstonrepaircafe/) |
 
